@@ -9,6 +9,7 @@ import android.webkit.WebViewClient
 import android.widget.Toast
 
 //Web View Activity
+
 class MainActivity : AppCompatActivity() {
     private lateinit var webView: WebView
 
